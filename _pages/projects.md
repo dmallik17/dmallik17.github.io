@@ -22,7 +22,7 @@ This project studies the difference between a deployed transformer block, viewed
 
 This project gives explicit stability guarantees for periodically switched linear systems by comparing the true switched evolution with an averaged system. The main estimates use commutator bounds to quantify the discrepancy caused by noncommuting subsystem generators, producing certified switching-period conditions for inheriting exponential stability from the averaged dynamics.
 
-Links: [IEEE](https://ieeexplore.ieee.org/abstract/document/11589288), [arXiv](https://arxiv.org/abs/2607.05829), [code](https://github.com/HamiltonsPrincipal17/Commutator_Driven_Stability_Bounds)
+Links: [IEEE](https://ieeexplore.ieee.org/abstract/document/11589288), [arXiv](https://arxiv.org/abs/2607.05829), [code](https://github.com/dmallik17/Commutator_Driven_Stability_Bounds)
 
 ---
 
