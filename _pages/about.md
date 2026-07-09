@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: profile.jpeg
+  image: profile.jpg
   image_circular: false
   more_info: >
     <p>PhD student</p>
