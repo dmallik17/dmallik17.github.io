@@ -33,7 +33,7 @@ Summer work supervised by [P. S. Krishnaprasad](https://ece.umd.edu/clark/facult
 
 **Spectrahedral Relaxations for Attitude Estimation with Convex MPC Control**  
 *November 2025-December 2025*  
-Convex optimization course project on Wahba’s problem, spectrahedral relaxations of \(\operatorname{conv}(\mathrm{SO}(3))\), and bounded-torque MPC.
+Convex optimization course project on Wahba’s problem, spectrahedral relaxations of $SO(3)$, and bounded-torque MPC.
 
 ---
 
