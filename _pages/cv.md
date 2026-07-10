@@ -9,7 +9,7 @@ nav_order: 4
 ## Education
 
 **University of Maryland, College Park**  
-Ph.D. student, A. James Clark School of Engineering, 2024–present  
+Ph.D. student, Electrical and Computer Engineering, 2024–present  
 Advisor: [Prof. Nikhil Chopra](https://me.umd.edu/clark/faculty/520/Nikhil-Chopra)
 
 **Jadavpur University**  
