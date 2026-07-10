@@ -29,7 +29,7 @@ Stability guarantees for periodically switched systems using averaged Lyapunov d
 
 **Expository Summer Work on Lie–Poisson Dynamics and the Exponential Map**  
 *May 2025–August 2025*  
-Summer work supervised by [P. S. Krishnaprasad](https://ece.umd.edu/clark/faculty/423/P-S-Krishnaprasad) on structure-preserving integration for Lie–Poisson systems and formulas for the differential of the exponential map.
+Summer work supervised by [Prof. P. S. Krishnaprasad](https://ece.umd.edu/clark/faculty/423/P-S-Krishnaprasad) on structure-preserving integration for Lie–Poisson systems and formulas for the differential of the exponential map.
 
 **Spectrahedral Relaxations for Attitude Estimation with Convex MPC Control**  
 *November 2025-December 2025*  
