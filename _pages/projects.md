@@ -20,7 +20,7 @@ This project studies the difference between a deployed transformer block, viewed
 
 This project gives explicit stability guarantees for periodically switched linear systems by comparing the true switched evolution with an averaged system. The main estimates use commutator bounds to quantify the discrepancy caused by noncommuting subsystem generators, producing certified switching-period conditions for inheriting exponential stability from the averaged dynamics.
 
-Links: [IEEE](https://ieeexplore.ieee.org/abstract/document/11589288), [arXiv](https://arxiv.org/abs/2607.05829), [code](https://github.com/dmallik17/Commutator_Driven_Stability_Bounds)
+Links: [DOI](https://ieeexplore.ieee.org/abstract/document/11589288), [arXiv](https://arxiv.org/abs/2607.05829), [code](https://github.com/dmallik17/Commutator_Driven_Stability_Bounds)
 
 **On the Midpoint Scheme for Lie–Poisson Dynamics**  
 *May 2025–August 2025*
@@ -39,6 +39,6 @@ Link: [PDF](https://drive.google.com/file/d/148JRVoAmbJ43hKh8RUdUbjqGizp8KB4F/vi
 **Spectrahedral Attitude Estimation and Convex MPC**  
 *November 2025–December 2025*
 
-This course project combines convex optimization and geometric control for rigid-body attitude problems. It formulates Wahba’s problem using a spectrahedral lift of $SO(3)$, recovers attitude through a quaternion/eigenvector construction, and then regulates the estimated target using a bounded-torque convex MPC formulation in intrinsic error coordinates.
+This course project combines convex optimization and geometric control for rigid-body attitude problems. It formulates Wahba’s problem using a spectrahedral lift of $\mathrm{convSO(3)}$, recovers attitude through a quaternion/eigenvector construction, and then regulates the estimated target using a bounded-torque convex MPC formulation in intrinsic error coordinates.
 
 Link: [PDF](https://drive.google.com/file/d/1z9FpBMvRmpwMwcC1DGKA31IpjPBfraEF/view)
